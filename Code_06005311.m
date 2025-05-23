@@ -1,3 +1,5 @@
+load('Data_6005311.mat');
+
 %% Question 1
     % Manual Method
 x_bar1 = mean(A1);
