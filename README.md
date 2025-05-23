@@ -1,4 +1,4 @@
-# Probability and Statistics
+# Probability, Statistics & Data Analysis
 This repository contains MATLAB code used to complete the Probability and Statistics coursework. The coursework explores statistical testing, confidence intervals, normality testing, outlier detection, power analysis, and linear regression. It is divided into five numerical questions, each requiring analysis of experimental data generated in MATLAB.
 
 ## Tasks Summary
